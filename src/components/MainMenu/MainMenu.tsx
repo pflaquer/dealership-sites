@@ -5,7 +5,7 @@ function MainMenu() {
 return (
         <>
     
-      Hello World
+      <h1>Hello World</h1>
     
                 </>
   );
