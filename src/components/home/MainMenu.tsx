@@ -26,7 +26,7 @@ import { bgcolor } from "@mui/system";
 
 function MainMenu() {
   return (
-<>
+<div>
    <Box
                 sx={{
                   fontSize: "0.8rem",
@@ -46,6 +46,7 @@ function MainMenu() {
                 />
               </NavLink>
         </Box>
+    </div>
     )
      
 }
