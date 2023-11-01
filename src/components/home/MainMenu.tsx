@@ -1,14 +1,12 @@
 import React from "react";
-import logo from "./logo_.webp";
-import { NavLink } from "react-router-dom";
 
-function MainMenu() {
+function footer() {
 return (
         <>
             <h1>Hello, world!</h1>
-            <p>This is a paragraph.</p>
+            <p>This is a footer.</p>
         </>
     )
 }
 
-export default MainMenu;
+export default footer;
