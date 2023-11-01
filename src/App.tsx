@@ -1,5 +1,5 @@
 import { Routes, Route, Outlet, Link } from "react-router-dom";
-import layout from "./layout.tsx";
+import layout from "./layout";
 
 export default function App() {
   return (
