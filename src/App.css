@@ -19,8 +19,8 @@ body {
 
 nav {
   height: 120px;
+  width:100%;
   background-color: #ffffff;
-  position: relative;
   color:#fff;
   opacity: .95;
   filter:drop-shadow(4px 3px 2px gray);
