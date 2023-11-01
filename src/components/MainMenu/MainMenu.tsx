@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 function MainMenu() {
 return (
         <>
-    <nav>
+    
       Hello World
-    </nav>
+    
                 </>
   );
 };
