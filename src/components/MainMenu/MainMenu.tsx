@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo_.webp";
+//import logo from "./logo_.webp";
 import { NavLink } from "react-router-dom";
 
 function MainMenu() {
