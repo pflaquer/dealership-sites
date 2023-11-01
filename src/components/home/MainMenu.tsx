@@ -26,7 +26,7 @@ import { bgcolor } from "@mui/system";
 
 function MainMenu() {
   return (
-
+<>
    <Box
                 sx={{
                   fontSize: "0.8rem",
