@@ -4,16 +4,11 @@ import { NavLink } from "react-router-dom";
 
 function MainMenu() {
 return (
-<>
-<NavLink to="/">
-<img
-src={logo}
-className="autologo"
-/>
-</NavLink>
-</>
-
-)
+        <>
+            <h1>Hello, world!</h1>
+            <p>This is a paragraph.</p>
+        </>
+    )
 }
 
 export default MainMenu;
