@@ -1,5 +1,3 @@
-import { useState } from "react";
-import "./App.css";
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 
 export default function App() {
